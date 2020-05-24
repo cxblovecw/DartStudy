@@ -1,0 +1,5 @@
+name:
+  "StudyDart"
+dependencies:
+  dio: ^3.0.9
+  meta: ^1.1.8
